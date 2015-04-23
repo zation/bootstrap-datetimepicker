@@ -19,8 +19,8 @@
   ],
   "dependencies": {
     "moment": "~2.8.2",
-	"bootstrap": "^3.0",
-    "jquery": "latest"
+    "bootstrap": "^3.0",
+    "jquery": "^1.11.2"
   },
   "devDependencies": {
     "grunt": "latest",
